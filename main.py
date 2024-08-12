@@ -1,7 +1,8 @@
-'''input
+ '''input
 test.mp4
 test2.mp4
 1
+Todo : Add dynamic input
 '''
 
 from ffmpy import FFmpeg
